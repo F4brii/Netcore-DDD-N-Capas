@@ -1,0 +1,13 @@
+/home/fabricio/AND/Test/src/test.Domain/obj/Debug/netcoreapp3.1/test.Domain.csprojAssemblyReference.cache
+/home/fabricio/AND/Test/src/test.Domain/obj/Debug/netcoreapp3.1/test.Domain.AssemblyInfoInputs.cache
+/home/fabricio/AND/Test/src/test.Domain/obj/Debug/netcoreapp3.1/test.Domain.AssemblyInfo.cs
+/home/fabricio/AND/Test/src/test.Domain/obj/Debug/netcoreapp3.1/test.Domain.csproj.CoreCompileInputs.cache
+/home/fabricio/AND/Test/src/test.Domain/bin/Debug/netcoreapp3.1/test.Domain
+/home/fabricio/AND/Test/src/test.Domain/bin/Debug/netcoreapp3.1/test.Domain.deps.json
+/home/fabricio/AND/Test/src/test.Domain/bin/Debug/netcoreapp3.1/test.Domain.runtimeconfig.json
+/home/fabricio/AND/Test/src/test.Domain/bin/Debug/netcoreapp3.1/test.Domain.runtimeconfig.dev.json
+/home/fabricio/AND/Test/src/test.Domain/bin/Debug/netcoreapp3.1/test.Domain.dll
+/home/fabricio/AND/Test/src/test.Domain/bin/Debug/netcoreapp3.1/test.Domain.pdb
+/home/fabricio/AND/Test/src/test.Domain/obj/Debug/netcoreapp3.1/test.Domain.dll
+/home/fabricio/AND/Test/src/test.Domain/obj/Debug/netcoreapp3.1/test.Domain.pdb
+/home/fabricio/AND/Test/src/test.Domain/obj/Debug/netcoreapp3.1/test.Domain.genruntimeconfig.cache
